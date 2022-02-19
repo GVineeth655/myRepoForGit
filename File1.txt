@@ -1,0 +1,1 @@
+Ths is the first file, i created for learning git and created in the myRepoForGit repository. 
