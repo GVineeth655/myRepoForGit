@@ -1,2 +1,2 @@
 # myRepoForGit
-I created this repo for learning git.
+FM  SJKFSL DSM WFWL
